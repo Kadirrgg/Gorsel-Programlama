@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\source\\repos\\gpp1\\gpp1\\gpp1.csproj": {}
+    "C:\\Users\\asus\\Documents\\GitHub\\vize-ffinal-hesapla\\gpp1\\gpp1\\gpp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\source\\repos\\gpp1\\gpp1\\gpp1.csproj": {
+    "C:\\Users\\asus\\Documents\\GitHub\\vize-ffinal-hesapla\\gpp1\\gpp1\\gpp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\source\\repos\\gpp1\\gpp1\\gpp1.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Documents\\GitHub\\vize-ffinal-hesapla\\gpp1\\gpp1\\gpp1.csproj",
         "projectName": "gpp1",
-        "projectPath": "C:\\Users\\asus\\source\\repos\\gpp1\\gpp1\\gpp1.csproj",
+        "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\vize-ffinal-hesapla\\gpp1\\gpp1\\gpp1.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\source\\repos\\gpp1\\gpp1\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Documents\\GitHub\\vize-ffinal-hesapla\\gpp1\\gpp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
